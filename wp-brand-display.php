@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Brand Display
- * Description: Prikazuje sliku brenda iznad cene na single product stranici
+ * Description: Displays a brand image above the price on a single product page
  * Version: 1.0.0
  * Author: Bojan Pavlovic
  * License: GPL v2 or later
